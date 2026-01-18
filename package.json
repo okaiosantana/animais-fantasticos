@@ -1,0 +1,30 @@
+{
+  "name": "animais-fantasticos",
+  "version": "1.0.0",
+  "description": "Projeto front-end desenvolvido com **JavaScript puro (ES6+)**, com foco em **interatividade, performance e experiência do usuário**.\r O site simula uma aplicação institucional sobre animais, explorando diversos padrões modernos de UI/UX e integração com APIs externas.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okaiosantana/animais-fantasticos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okaiosantana/animais-fantasticos/issues"
+  },
+  "homepage": "https://github.com/okaiosantana/animais-fantasticos#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.6",
+    "@babel/plugin-transform-runtime": "^7.28.5",
+    "@babel/preset-env": "^7.28.6",
+    "babel-loader": "^10.0.0",
+    "eslint": "^9.39.2",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
