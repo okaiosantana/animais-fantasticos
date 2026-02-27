@@ -1,5 +1,10 @@
 ### Animais Fantásticos
 
+**Demo online:** https://okaiosantana.github.io/animais-fantasticos
+
+**Repositório:** https://github.com/okaiosantana/animais-fantasticos
+
+
 Projeto front-end desenvolvido com **JavaScript puro (ES6+)**, com foco em **interatividade, performance e experiência do usuário**.
 O site simula uma aplicação institucional sobre animais, explorando diversos padrões modernos de UI/UX e integração com APIs externas.
 
